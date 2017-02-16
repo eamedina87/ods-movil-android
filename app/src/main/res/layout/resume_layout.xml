@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:background="@color/ods1"
+        android:id="@+id/question_ods_layout"
+        >
+
+        <ImageView
+            android:id="@+id/question_image"
+            android:layout_width="@dimen/question_image_size"
+            android:layout_height="@dimen/question_image_size"
+            android:layout_marginLeft="5dp"
+            android:src="@mipmap/ic_ods_01_logo"
+            />
+
+        <TextView
+            android:id="@+id/question_shortname"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:text="Reducir la pobreza"
+            android:textAppearance="@style/PreviewShortname"
+            android:gravity="center_vertical|left"
+
+            />
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:gravity="center"
+        android:text="Score: 7"
+        android:id="@+id/resume_score"
+        android:layout_below="@+id/question_ods_layout"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:gravity="center"
+        android:text="HighScore: 17"
+        android:id="@+id/resume_highscore"
+        android:layout_below="@+id/resume_score"
+        />
+
+    <android.support.v7.widget.RecyclerView
+        android:layout_margin="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/resume_list"
+        android:layout_below="@+id/resume_highscore"
+        android:layout_above="@+id/resume_btn_layout"
+
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_alignParentBottom="true"
+        android:id="@+id/resume_btn_layout"
+        android:layout_marginBottom="10dp"
+        >
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@mipmap/ic_mainmenu"
+            android:layout_weight="1"
+            android:id="@+id/resume_btn_mainmenu"
+            android:background="@null"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/resume_mainmenu_btn"
+            android:layout_gravity="center"/>
+
+
+    </LinearLayout>
+
+</RelativeLayout>

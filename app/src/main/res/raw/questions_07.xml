@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<questions ods="2">
+	<question order="1">
+		<text>La energía sirve para:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Generación de alimentos procesados</response>
+			<response>Generación de empleos</response>
+			<response>Amortiguar el cambio climático</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>La energía sostenible es una oprtunidad que transforma:</text>
+		<responses>
+			<response correct="true">vidas, economía y el planeta</response>
+			<response>materia, energía y espacio</response>
+			<response>el espacio - tiempo</response>
+			<response>Todas las opciones</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>¿Cómo se llama el Secretario 	General de las Naciones Unidas?</text>
+		<responses>
+			<response correct="true">Ban Ki-moon</response>
+			<response>Man Bi-koon</response>
+			<response>Barack Obama</response>
+			<response>Putin</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>¿Una de cada cinco personas no tienen acceso a la electricidad moderna?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No</response>
+			<response>No sé</response>
+			<response>Muy poco</response>
+		</responses>
+		</responses>
+	</question>
+	<question order="5">
+		<text>¿Cuántos millones de personas dependen de la biomasa tradicional (madera, residuos animales o plantas) para cocinar o calefacción?</text>
+		<responses>
+			<response correct="true">3000</response>
+			<response>2000</response>
+			<response>7000</response>
+			<response>3</response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>¿La energía en qué porcentaje contribuye al cambio climático del planeta por las emisiones de gases efecto invernadero que generá?</text>
+		<responses>
+			<response correct="true">60%</response>
+			<response>40%</response>
+			<response>20%</response>
+			<response>10%</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>¿Cuál es un objetivo a largo plazo sobre las emisiones de carbono de la energía?</text>
+		<responses>
+			<response correct="true">Reducirla</response>
+			<response>Eliminarla</response>
+			<response>No tiene relación</response>
+			<response>Todas las opciones</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>Características de la energpia que se prevee garantizar el acceso en el 2030:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Asequibles</response>
+			<response>Confiables</response>
+			<response>Modernos</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>Para el 2030, la eficiencia energética se pretende sea: </text>
+		<responses>
+			<response correct="true">Duplicada</response>
+			<response>Mantenida</response>
+			<response>Triplicada</response>
+			<response>Todas las opciones</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>Para el 2030, ¿qué se pretende aumentar para facilitar la el acceso a la investigación y las tecnologías energéticas no contaminates?</text>
+		<responses>
+			<response correct="true">Cooperación internacional</response>
+			<response>Científicos</response>
+			<response>Universidades</response>
+			<response>Nada</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>¿La ONU busca promover la infraestructura energética hasta el 2030?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No le compete</response>
+			<response>No</response>
+			<response>Lo dudo</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>¿Cuál es la iniciativa que dirige el Secretario General de las Naciones Unidas sobre energía?</text>
+		<responses>
+			<response correct="true">Energía sostenible</response>
+			<response>Energía barata</response>
+			<response>Energía para todos</response>
+			<response>Energía costosa</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>Sobre el porcentaje de la energía renovable en el conjunto de fuentes de energia se pretende para el 2030:</text>
+		<responses>
+			<response correct="true">Aumentarla</response>
+			<response>Duplicarla</response>
+			<response>Disminuirla</response>
+			<response>Mantenerla</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>Las fuentes de energía de combustibles fósiles tienen una tendencia de uso:</text>
+		<responses>
+			<response correct="true">Creciente</response>
+			<response>Decreciente</response>
+			<response>Se mantiene</response>
+			<response>No sé</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text>La Organización Internacional del Trabajo (OIT) ha trabajado para:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Reducir accidentes</response>
+			<response>Garantizar libertad</response>
+			<response>Garantizar derechos</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>¿Qué presidentes reafirmaron el compromiso de paz en 1945?</text>
+		<responses>
+			<response correct="true">Roosevelt, Stalin y Churchill</response>
+			<response>Roosevelt, Stalin y Lenin</response>
+			<response>Lenin, Correa y Maduro</response>
+			<response>Fidel, Chávez y Lula</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>¿La FAO es parte de la ONU?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No se relaciona</response>
+			<response>No sé</response>
+			<response>Creo que no</response>
+		</responses>
+	</question>
+</questions>

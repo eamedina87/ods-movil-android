@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<questions ods="2">
+	<question order="1">
+		<text>Las mujeres y niñas siguen sufriendo discriminación y violencia a pesar de haber empezado hace años los esfuerzos por reducir esto? </text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>Es invento de las feministas</response>
+			<response>No</response>
+			<response>Lo dudo</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>Según la ONU la igualdad de género además de ser derecho humano fundamental es la base neecsaria para conseguir un mundo:</text>
+		<responses>
+			<response correct="true">pacífico, próspero y sostenible</response>
+			<response>honesto, alegre y humano</response>
+			<response>feliz</response>
+			<response>igual a Marte</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>Si se facilita a las mujeres y niñas igualdad en el acceso a la educación, atención médica, trabajo decente, representación política y económica se impulsarán:</text>
+		<responses>
+			<response correct="true">Economías sostenibles</response>
+			<response>Economías pobres</response>
+			<response>Economías de escala</response>
+			<response>Economías simples</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>¿En qué proporción se ha logrado la equidad de género en la educación primaria en países en desarrollo?</text>
+		<responses>
+			<response correct="true">Dos tercios</response>
+			<response>Un tercio</response>
+			<response>Dos cuartos</response>
+			<response>Un cuarto</response>
+		</responses>
+	</question>
+	<question order="5">
+		<text>Actualmente en Asia meridional la tasa de matriculación de niñas y niños es igual pero en 1990 la relación era:</text>
+		<responses>
+			<response correct="true">74 niñas por cada 100 niños</response>
+			<response>60 niñas por cada 100 niños</response>
+			<response>74 niños por cada 100 niñas</response>
+			<response>iguales</response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>¿En qué lugar las niñas aún enfrentan problemas para ingresar en la escuela primaria y secundaria?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Oceanía</response>
+			<response>África subsahariana</response>
+			<response>Asia Occidental</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>¿En el norte de África las mujeres qué porcentaje suponen en cuanto a empleo remunerado en el sector no agrícola?</text>
+		<responses>
+			<response correct="true">20%</response>
+			<response>80%</response>
+			<response>74%</response>
+			<response>25%</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>De 1990 a 2015, en el mundo, el porcentaje de muejres en cuanto a empleo remunerado en el sector no agrícola subió de:</text>
+		<responses>
+			<response correct="true">35% al 41%</response>
+			<response>20% al 30%</response>
+			<response>1% al 2%</response>
+			<response>35% al 36%</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>¿En cuántos países las mujeres ocupan al menos el 30% de los escaños en los parlamentos nacionales?</text>
+		<responses>
+			<response correct="true">46 países</response>
+			<response>20 países</response>
+			<response>5 países</response>
+			<response>96 países</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>La ONU sobre las formas de discriminación contra mujeres y niñas en todo el mundo, pretende:</text>
+		<responses>
+			<response correct="true">Ponerle fin</response>
+			<response>Que se reduzca</response>
+			<response>Mantenerse indiferente</response>
+			<response>Que las maltraten menos</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>Una explotación contra la mujer muy importantes es:</text>
+		<responses>
+			<response correct="true">La trata de mujeres</response>
+			<response>Las mujeres trabajando</response>
+			<response>La mujer maquillándose</response>
+			<response>Todas las opciones</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>Algunas prácticas nocivas con mujeres y niñas son:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Matrimonio infantil</response>
+			<response>Matrimonio forzado y precoz</response>
+			<response>Mutilación genital femenina</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>Sobre los cuidados no remunerados y el trabajo no remunerado la ONU opina que se debe de:</text>
+		<responses>
+			<response correct="true">Reconocer y valorar</response>
+			<response>Ser indiferente</response>
+			<response>Pedir que se esfuercen más</response>
+			<response>Ninguna de las anteriores</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>Para promover el empoderamiento de la mujer, la ONU cree indispensable potenciar el uso de:</text>
+		<responses>
+			<response correct="true">Tencología de la información</response>
+			<response>Ollas y cocinas eléctricas</response>
+			<response>Políticas públicas</response>
+			<response>Marchas masivas</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text>El Programa de las Naciones Unidas para la Fiscalización Internacional de Drogas (PNUFID) a trabajado por:</text>
+		<responses>
+			<response correct="true">Reducir mercado de droga</response>
+			<response>Se siembre más</response>
+			<response>Se venda más</response>
+			<response>Ninguna de las opciones</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>¿En qué fecha fue la Declaración de las Naciones Unidas?</text>
+		<responses>
+			<response correct="true">01 de enero de 1942</response>
+			<response>11 de enero de 1942</response>
+			<response>01 de octubre de 1942</response>
+			<response>01 de enero de 1948</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>¿Las minas terrestres de antiguos campos de batalla en Afganistán, Angola, Camboya, El Salvador, Mozambique, Rwanda y Somalia; están siendo desmontadas por esfuerzos de la ONU?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No</response>
+			<response>No se relaciona</response>
+			<response>No sé</response>
+		</responses>
+	</question>
+</questions>

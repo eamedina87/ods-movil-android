@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<questions ods="2">
+	<question order="1">
+		<text>La mitad de la población mundial vive diariamente con:</text>
+		<responses>
+			<response correct="true">Menos de $2,00</response>
+			<response>Más de $5,00</response>
+			<response>$1,00</response>
+			<response>$10,00</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>¿Tener un empleo garantiza escapar de la pobreza?</text>
+		<responses>
+			<response correct="true">Falso</response>
+			<response>Verdadero</response>
+			<response>No se relacionan</response>
+			<response>Todas son verdaderas</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>¿Qué debemos de revisar para poder atacar a desigualdad y el proceso lento de cambio? </text>
+		<responses>
+			<response correct="true">Políticas económicas y sociales</response>
+			<response>Políticas sociales</response>
+			<response>Políticas económicas</response>
+			<response>Políticas electorales</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>¿Qué factor produce la erosión del contrato social básico subyacente en las sociedades democráticas: derecho a compaetir el progreso?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Falta de trabajo decente</response>
+			<response>Falta de inversión</response>
+			<response>Bajo consumo</response>
+		</responses>
+	</question>
+	<question order="5">
+		<text>Se deben de fomentar trabajos de calidad para personas de:</text>
+		<responses>
+			<response correct="true">edades y capacidades diferentes</response>
+			<response>diferentes edades</response>
+			<response>capacidades diferentes</response>
+			<response>Ninguna de las opciones</response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>En el 2007 el desempleo mundial aumentó en:</text>
+		<responses>
+			<response correct="true">170 millones de personas</response>
+			<response>100 millones de personas</response>
+			<response>1 millón de personas</response>
+			<response>100000 personas</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>¿Cuántos empleos se necesitan, a nivel mundial, entre 2016 y 2030 para el sector que ingresa en el mercado laboral?</text>
+		<responses>
+			<response correct="true">470 millones</response>
+			<response>100 millones</response>
+			<response>50 millones</response>
+			<response>400 millones</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>¿En qué porcentaje mínimo se pretende mantener el % de producto interno bruto en países menos adelantados?</text>
+		<responses>
+			<response correct="true">7%</response>
+			<response>5%</response>
+			<response>4%</response>
+			<response>6%</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>¿Cómo se pretende mejorar la productividad en el mundo?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Diversificación de productos</response>
+			<response>Modernización tecnológica</response>
+			<response>Innovación</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>Las políticas públicas deben de oritarse hacia:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Emprendimiento</response>
+			<response>Creatividad e innovación</response>
+			<response>Creación de empeo decente</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>Según la ONU, ¿actualmente existe relación entre el crecimiento económico y la degradación del medio ambiente?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No lo menciona</response>
+			<response>No</response>
+			<response>Creo que sí</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>Para el 2030 cual de las siguientes metas no tiene la ONU:</text>
+		<responses>
+			<response correct="true">Reducir precios de conciertos</response>
+			<response>Mejorar condiciones de trabajo</response>
+			<response>Pago justo del trabajo</response>
+			<response>Capacitación a jóvenes</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>¿Cuál es la peor forma de trabajo infantil?</text>
+		<responses>
+			<response correct="true">Reclutamiento y niños soldado</response>
+			<response>Venta ambulante de productos</response>
+			<response>Niños soldados</response>
+			<response>Reclutamiento</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>¿Qupe meta tiene la ONU sobre el trabajo para inmmigrantes?</text>
+		<responses>
+			<response correct="true">Trabajo seguro y protegido</response>
+			<response>Pagarles menos que los nacinales</response>
+			<response>Pagarles más que los nacionales</response>
+			<response>Mandarlos a su país de origen</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text>Gracias a la Organización de las Naciones Unidas para la Alimentación y la Agricultura (FAO) en China logró:</text>
+		<responses>
+			<response correct="true">Ahorro es pesticidas</response>
+			<response>Menos impuestos</response>
+			<response>Más pobreza</response>
+			<response>Más residuos</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>En el término EJE se hace alusión a los tres países que lucharon en contra de los aliados, los cuales son:</text>
+		<responses>
+			<response correct="true">Alemania, Italia y Japón</response>
+			<response>Alemania, España y Ecuador</response>
+			<response>Rusia, Estados Unidos e Italia</response>
+			<response>Perú, Bolivia y Argentina</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>El programa de Acción para los Bosques Tropicales es llevado a cabo por:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>FAO</response>
+			<response>PNUD</response>
+			<response>Banco Mundial</response>
+		</responses>
+	</question>
+</questions>

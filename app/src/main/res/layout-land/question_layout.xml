@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:layout_below="@+id/question_ods_layout"
+    android:layout_above="@+id/question_bar"
+    android:layout_margin="10dp"
+
+    >
+
+    <android.support.v7.widget.CardView
+        android:layout_width="100dp"
+        android:layout_height="match_parent"
+        app:cardCornerRadius="@dimen/card_radius"
+        android:layout_weight="1"
+        android:layout_gravity="center_vertical"
+        >
+
+        <TextView
+            android:id="@+id/question_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:layout_gravity="center"
+            android:textAppearance="@style/Question"
+            android:text="Para el 2030, la ONU ¿qué pretende hacer con la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales?"
+            />
+
+    </android.support.v7.widget.CardView>
+
+
+    <LinearLayout
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_gravity="center_vertical"
+        >
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/question_response_size"
+            android:backgroundTint="@color/ods17"
+            android:text="Reducirla a la mitad"
+            android:id="@+id/question_response_1"
+            android:textAppearance="@style/Response"
+
+            android:gravity="left|center_vertical"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/question_response_size"
+            android:backgroundTint="@color/ods9"
+            android:text="Erradicarla"
+            android:id="@+id/question_response_2"
+            android:textAppearance="@style/Response"
+            android:gravity="left|center_vertical"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/question_response_size"
+            android:backgroundTint="@color/ods14"
+            android:text="Reducirla en un 75%"
+            android:id="@+id/question_response_3"
+            android:textAppearance="@style/Response"
+            android:gravity="left|center_vertical"
+            />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/question_response_size"
+            android:backgroundTint="@color/ods8"
+            android:text="Reducirla en un 99%"
+            android:id="@+id/question_response_4"
+            android:textAppearance="@style/Response"
+            android:gravity="left|center_vertical"
+            />
+
+    </LinearLayout>
+
+
+</LinearLayout>

@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<questions ods="2">
+	<question order="1">
+		<text>De acuerdo a la ONU para lograr el desarrollo sostenibles es necesario tener: </text>
+		<responses>
+			<response correct="true">Vida saludable y promover bienestar</response>
+			<response>Comer bastante y comprar barato</response>
+			<response>Revisar siempre la página de la ONU</response>
+			<response>Ninguna de las anteriores</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>¿Cuál ha sido uno de los mayores logros de los últimos años en cuento a bienstar?</text>
+		<responses>
+			<response correct="true">Aumento de esperanza de vida</response>
+			<response>Aumento de ingresos per cápita</response>
+			<response>Generación de empleo</response>
+			<response>Todas las anteriores</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>De la reducción de causas de muerte destacan las que tiene que ver con enfermedades relacionadas con la mortalidad: </text>
+		<responses>
+			<response correct="true">Infantil y materna</response>
+			<response>De ancioanos y niños</response>
+			<response>Materna y animal</response>
+			<response>Por infartos</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>De los avances destacados en bienestar escoja cual se relaciona</text>
+		<responses>
+			<response correct="true">Todas las anteriores</response>
+			<response>Acceso al agua limpia</response>
+			<response>Reducción de malaria</response>
+			<response>Menor propagación del VIH/SIDA</response>
+		</responses>
+	</question>
+	<question order="5">
+		<text>¿Qué número aproximado de niños mueren al año antes de cumplir los cinco años, después de 1990?</text>
+		<responses>
+			<response correct="true">Más de 6 millones</response>
+			<response>Menos de 6 millones</response>
+			<response>Ya no mueren niños</response>
+			<response>Más de 100 millones</response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>¿Cuál es la probabilidad de morir antes de los cinco años de los niños nacidos en la pobreza?</text>
+		<responses>
+			<response correct="true">El doble</response>
+			<response>El triple</response>
+			<response>Cero</response>
+			<response>Ninguna de la anteriores</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>¿En qué parte del mundo se dan la mayor proporción creciente de muertes infantiles?</text>
+		<responses>
+			<response correct="true">Asia meridional y África subsahariana</response>
+			<response>Latinoamérica</response>
+			<response>Europa</response>
+			<response>Sud África y Asia occidental</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>¿En qué porcentaje cayó la muerte maternal desde 1990?</text>
+		<responses>
+			<response correct="true">50%</response>
+			<response>25%</response>
+			<response>75%</response>
+			<response>100%</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>¿Cuál es la relación de muertes de madres que no sobreviven al parto, entre regiones en desarrollo y regiones desarrolladas? </text>
+		<responses>
+			<response correct="true">14 veces mayor</response>
+			<response>5 veces mayor</response>
+			<response>20 veces mayor</response>
+			<response>Es igual</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>¿En qué década el aumento del uso de anticonceptivos fue mayor?</text>
+		<responses>
+			<response correct="true">1990 - 2000</response>
+			<response>2000 - 2010</response>
+			<response>No hubo aumento en ninguno</response>
+			<response>Ninguna de las anteriores</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>¿Cuántos millones de personas recibiían terapia antirretroviral a finales del 2014?</text>
+		<responses>
+			<response correct="true">13,6 millones</response>
+			<response>10,3 millones</response>
+			<response>16,3 millones</response>
+			<response>1000 millones</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>¿En el 2013, cuántas nuevas infecciones se reportaron de VIH?</text>
+		<responses>
+			<response correct="true">2,1 millones</response>
+			<response>1,2 millones</response>
+			<response>0,21 millones</response>
+			<response>21 milones</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>Hasta finales del 2013, ¿Cuál era el número de personas en el mundo que vivían con VIH?</text>
+		<responses>
+			<response correct="true">35 millones</response>
+			<response>20 millones</response>
+			<response>2 millones</response>
+			<response>15 millones</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>Las infecciones de VIH en niños han disminuído desde el 2001 en un:</text>
+		<responses>
+			<response correct="true">%58</response>
+			<response>%28</response>
+			<response>%18</response>
+			<response>%88</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text>El instrumento constituyente de la ONU es:</text>
+		<responses>
+			<response correct="true">La Carta de las Naciones Unidas</response>
+			<response>El Contrato de las Naciones Unidas</response>
+			<response>El Estatuto de las Naciones Unidas</response>
+			<response>La Escritura de las Naciones Unidas</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>Con objeto de garantizar la seguridad de los alimentos que se venden en los mercados, los organismos de la ONU han establecido sobre los alimentos:</text>
+		<responses>
+			<response correct="true">Ninguna de las opciones</response>
+			<response>Horarios de comida</response>
+			<response>Niveles mínimos de calidad</response>
+			<response>Menor ración</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>La declaración del Palacio de St James fue firmada el:</text>
+		<responses>
+			<response correct="true">12 de junio de 1941</response>
+			<response>15 de junio de 1941</response>
+			<response>22 de junio de 1945</response>
+			<response>22 de julio de 1945</response>
+		</responses>
+	</question>
+</questions>

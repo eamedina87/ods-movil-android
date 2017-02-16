@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:cardCornerRadius="@dimen/card_radius"
+    android:layout_marginTop="5dp"
+    android:layout_marginBottom="5dp"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp">
+
+        <ImageView
+            android:layout_width="@dimen/resume_list_image_size"
+            android:layout_height="@dimen/resume_list_image_size"
+            android:src="@mipmap/ic_wrong"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/resume_list_image"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:layout_toLeftOf="@id/resume_list_image"
+            android:text="Para el 2030, la ONU ¿qué pretende hacer con la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales?"
+            android:textAppearance="@style/ResumeListQuestion"
+            android:id="@+id/resume_list_question"
+            />
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:padding="2dp"
+            android:layout_below="@+id/resume_list_question"
+            android:layout_alignLeft="@+id/resume_list_question"
+            android:layout_alignRight="@+id/resume_list_question"
+            android:text="Para el 2030, la ONU "
+            android:textAppearance="@style/ResumeListAnswer"
+            android:id="@+id/resume_list_answer"
+            />
+
+
+
+
+    </RelativeLayout>
+
+</android.support.v7.widget.CardView>

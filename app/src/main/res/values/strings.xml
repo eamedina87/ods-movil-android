@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">ODSMovil</string>
+
+    <string name="navigation_drawer_open">Abrir barra lateral</string>
+    <string name="navigation_drawer_close">Cerrar barra lateral</string>
+    <string name="action_settings">Configuración</string>
+
+    <string name="ods_locked">Responde correctamente 5 preguntas de la ODS %d para desbloquear</string>
+    <string name="test_begin_btn">Empezar Trivia</string>
+    <string name="preview_name">Objetivo %1$d: %2$s</string>
+    <string name="preview_level">Puntuación Alta: %d</string>
+
+    <string name="resume_score">Puntaje: %d</string>
+    <string name="resume_highscore">Puntaje Alto: %d</string>
+    <string name="resume_mainmenu_btn">Ir al Menú Principal</string>
+
+</resources>

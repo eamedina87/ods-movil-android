@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<questions ods="2">
+	<question order="1">
+		<text>¿Sobre el agua qué es necesario para el consumo humano?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>El agua libre de impurezas</response>
+			<response>El agua accesible</response>
+			<response>El agua dulce</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>¿Hay agua dulce suficiente en el mundo para abastecer a todos los habitantes?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No</response>
+			<response>No hay agua</response>
+			<response>No lo creo</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>de lo siguiente, ¿qué influye negativamente en la seguridad alimentaria?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Escasez de recuersos hídricos</response>
+			<response>Mala calidad del agua</response>
+			<response>Saneamiento inadecuado</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>La sequía, ¿qué efectos tiene sobre países en desarrollo?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Recrudece el hambre</response>
+			<response>Agrava la desnutrición</response>
+			<response>Disminuye productividad</response>
+		</responses>
+	</question>
+	<question order="5">
+		<text>Para el 2050, ¿en qué proporción vivirán las personas en un país afectado de escazes crónica y reiterada de agua dulce?</text>
+		<responses>
+			<response correct="true">1 de cada 4</response>
+			<response>2 de cada 4</response>
+			<response>4 de cada 4</response>
+			<response>2 de cada 10</response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>¿Cuántos millones de personas en el mundo utilizan una fuente de agua que está contaminada con materia fecal?</text>
+		<responses>
+			<response correct="true">1800</response>
+			<response>180</response>
+			<response>18</response>
+			<response>1,8</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>De 1990 a 2015, la proproción de la población mundial que utilizaba mejores fuentes de agua potable aumento de:</text>
+		<responses>
+			<response correct="true">76% a 91%</response>
+			<response>76% a 85%</response>
+			<response>26% a 91%</response>
+			<response>16% a 76%</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>La escasez de agua en el mundo, afecta a más del:</text>
+		<responses>
+			<response correct="true">40% de la población mundial</response>
+			<response>4% de la población mundial</response>
+			<response>10% de la población mundial</response>
+			<response>80% de la población mundial</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>¿Cuántos millones de personas viven cerca de cuencas fluviales donde el consumo es superior a la recarga?</text>
+		<responses>
+			<response correct="true">1700</response>
+			<response>700</response>
+			<response>70</response>
+			<response>7</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>¿Cuántos millones de personas carecen de acceso a servicios básicos de saneamiento, como retretes o letrinas?</text>
+		<responses>
+			<response correct="true">2400</response>
+			<response>24000</response>
+			<response>240</response>
+			<response>24</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>¿Qué porcentaje de los residuos resultantes de actividades humanas se vierten en ríos o el mar?</text>
+		<responses>
+			<response correct="true">Más del 80%</response>
+			<response>Menos del 60%</response>
+			<response>69%</response>
+			<response>21%</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>¿Cuál es la fuente de energía renovable más importante?</text>
+		<responses>
+			<response correct="true">Hidroeléctica</response>
+			<response>Eólica</response>
+			<response>Mecánica</response>
+			<response>Solar</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>La energia hidroeléctrica, en el 2011, en cuanto a producción electrica representó el:</text>
+		<responses>
+			<response correct="true">16% de producción mundial</response>
+			<response>36% de producción mundial</response>
+			<response>6% de producción mundial</response>
+			<response>1% de producción mundial</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>¿El agua extraída de los ríos, lágos y acuíferos en qué porcentaje se utiliza para riego?</text>
+		<responses>
+			<response correct="true">70%</response>
+			<response>25%</response>
+			<response>75%</response>
+			<response>95%</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text>La Conferencia de Naciones Unidas para el Comercio y el Desarrollo (UNCTAD) a trabjado en:</text>
+		<responses>
+			<response correct="true">Todas las anteriores</response>
+			<response>Abrir mercados</response>
+			<response>Garantizar precios justos</response>
+			<response>Incrementar comercio</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>La Declaración de Moscú y Teherán fue firmada en el año de:</text>
+		<responses>
+			<response correct="true">1943</response>
+			<response>1953</response>
+			<response>1963</response>
+			<response>1973</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>El Programa de las Naciones Unidas para el Medio Ambiente (PNUMA) y la Organización Meteorológica Mundial (OMM) han sido parte de:</text>
+		<responses>
+			<response correct="true">El Tratado de Montreal</response>
+			<response>La serie FRIENDS</response>
+			<response>El Carnaval</response>
+			<response>Un viaje a Júpiter</response>
+		</responses>
+	</question>
+</questions>

@@ -1,0 +1,157 @@
+<?xml version="1.0"?>
+<questions ods="2">
+	<question order="1">
+		<text>La base para mejorar la vida de las personas y el desarrollo sostenible es:</text>
+		<responses>
+			<response correct="true">Educación de calidad</response>
+			<response>Más comida</response>
+			<response>Cultura profética</response>
+			<response>Ir a Disney</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>La tasa de escolarización en las escuelas, se han incrementado, sobretodo, en: </text>
+		<responses>
+			<response correct="true">Mujeres y niñas</response>
+			<response>Adultos mayores</response>
+			<response>Mujeres embarazadas</response>
+			<response>Recién nacidos</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>La matrícula en la educación primaria en países en desarrollo ha alcanzado el:</text>
+		<responses>
+			<response correct="true">91%</response>
+			<response>55%</response>
+			<response>99%</response>
+			<response>20%</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>¿Dónde viven más de la mitad de niños que no se han inscrito en la escuela?</text>
+		<responses>
+			<response correct="true">África subsahariana</response>
+			<response>En mi barrio</response>
+			<response>En Asia</response>
+			<response>Europa</response>
+		</responses>
+		</responses>
+	</question>
+	<question order="5">
+		<text>¿Cuántos millones de jóvenes en el mundo no tienen un nivel mpinimo de alfabetización?</text>
+		<responses>
+			<response correct="true">103</response>
+			<response>1,3</response>
+			<response>13</response>
+			<response>100</response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>¿Para el 2030, la ONU qué pretende en cuanto a la educación primaria y secundaria de niñas y niños? </text>
+		<responses>
+			<response correct="true">100% de asistencia</response>
+			<response>88% de asistencia</response>
+			<response>60% de asistencia</response>
+			<response>99% de asistencia</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>Si los jóvenes tuviesen formación técnica o profesional podrían acceder a:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Trabajo decente</response>
+			<response>Emprendimiento</response>
+			<response>Empleo</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>Para el 2030, ¿la ONU pretende eliminar la desigualdad de género en el mundo?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No</response>
+			<response>Ni siquiera lo han considerado</response>
+			<response>No lo sé</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>Para el 2030, de las siguientes destrezas ¿cuáles desea la ONU tengan jóvenes y parte sustancial de adultos?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Lectura</response>
+			<response>Escritura</response>
+			<response>Aritmética</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>Para ayudar a fomentar el desarrollo sostenible se necesita de conocimiento:</text>
+		<responses>
+			<response correct="true">Teórico y práctico</response>
+			<response>Psicológico</response>
+			<response>De historia</response>
+			<response>De astrofísica</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>Las instalaciones educativas deben de ofrecer entornos de aprendizaje:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>seguros</response>
+			<response>no violentos</response>
+			<response>inclusivos</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>Para el 2020 se desea incrementar el npumero de becas educativas para países en desarrollo, sobretodo en:</text>
+		<responses>
+			<response correct="true">Estados insulares y África</response>
+			<response>Estados insulares y Asia</response>
+			<response>África y Sudamérica</response>
+			<response>Estados Unidos</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>¿Mediante qué mecanismo se pretende incrmentar el número de docentes calificados hasta el 2030?</text>
+		<responses>
+			<response correct="true">Cooperación internacional</response>
+			<response>Financiamiento bancario</response>
+			<response>Rifas</response>
+			<response>Colectas comunitarias</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>La ONU le da primordial atención al desarrollo educativo profesional en:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Programas técnicos y científicos</response>
+			<response>Ingeniería</response>
+			<response>Información y comunicaciones</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text>El Fondo de Población de las Naciones Unidas (FNUAP) a conseguido que en 56 países en desarrollo:</text>
+		<responses>
+			<response correct="true">Promedio de hijos sea 3,2</response>
+			<response>Se llenen estadios</response>
+			<response>Se compren celulares</response>
+			<response>Se incrementan el robo</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>La Carta del Atlántico fue firmada el:</text>
+		<responses>
+			<response correct="true">14 de agosto de 1941</response>
+			<response>14 de agosto de 1950</response>
+			<response>21 de julio de 1986</response>
+			<response>28 de enero de 1987</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>El Programa Mundial de Alimentos (PMA) afirma que existen en el mundo:</text>
+		<responses>
+			<response correct="true">1020 millones de personas desnutridas</response>
+			<response>200 millones de personas malas</response>
+			<response>100 millones de personas millonarias</response>
+			<response>20 millones de personas buenas</response>
+		</responses>
+	</question>
+</questions>

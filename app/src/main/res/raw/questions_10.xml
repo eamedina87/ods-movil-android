@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<questions ods="2">
+	<question order="1">
+		<text>¿Cuales son las naciones más vulnerables?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Estados insulares en desarrollo</response>
+			<response>Menos adelantados</response>
+			<response>Sin litoral y en desarrollo</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>El crecimiento económico no es suficiente si este no es:</text>
+		<responses>
+			<response correct="true">Inclusivo</response>
+			<response>Totalitario</response>
+			<response>Anárquico</response>
+			<response>Ninguna de las opciones</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>¿Cuál es la triple línea de sostenibilidad?</text>
+		<responses>
+			<response correct="true">Economía, sociedad y ambiente</response>
+			<response>Economía, ambiente y turismo</response>
+			<response>Turismo, soeciedad y educación</response>
+			<response>Educación, ambiente y economía</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>¿ En qué porcentaje la desigualdad de los ingresos aumentó entre 1990 y 2010?</text>
+		<responses>
+			<response correct="true">11%</response>
+			<response>1%</response>
+			<response>100%</response>
+			<response>75%</response>
+		</responses>
+	</question>
+	<question order="5">
+		<text>¿Qué porcentaje de la población mundial vive en sociedades donde los ingresos se distribuyen de manera más desigual que en 1990?</text>
+		<responses>
+			<response correct="true">75%</response>
+			<response>15%</response>
+			<response>20%</response>
+			<response>80%</response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>La desigualdad de ingresos influye en:</text>
+		<responses>
+			<response correct="true">Todas las anteriores</response>
+			<response>Reducción de la pobreza</response>
+			<response>Autoestima de la gente</response>
+			<response>Relaciones humanas</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>¿Es posible reducir la diferencia de ingresos y tener crecimiento económico como país?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No</response>
+			<response>No tiene relación</response>
+			<response>Creo que no</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>¿La desigualdad de ingresos se relaciona con la desigualdad de oportunidades?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No</response>
+			<response>No me interesa</response>
+			<response>No quiero saber</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>La desigualdad de ingresos puede significar atraso en el desarrollo:</text>
+		<responses>
+			<response correct="true">Social y económico</response>
+			<response>Ambiental</response>
+			<response>Político</response>
+			<response>Personal</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>Con respecto al quintil de niños ricos, los niños del quintil más pobre pueden morir antes de los 5 años en una probabilidad mayor a:</text>
+		<responses>
+			<response correct="true">3 veces</response>
+			<response>2 veces</response>
+			<response>1,5 veces</response>
+			<response>2,5 veces</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>Las personas con discapacidad tienen probabilidad de tener gastos catastróficos en una proporción:</text>
+		<responses>
+			<response correct="true">5 veces mayor que los demás</response>
+			<response>igual que los demás</response>
+			<response>3 veces mayor que los demás</response>
+			<response>2 veces mayor que los demás</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>Las mujeres de zonas rurales versus las mujeres de centros urbanos pueden morir durante el parto en una relación de:</text>
+		<responses>
+			<response correct="true">3 veces</response>
+			<response>2 veces</response>
+			<response>5 veces</response>
+			<response>igual</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>En cuanto a los costos de transacciones de remesas de migrantes, para el 2030, se espera reducir a menos del:</text>
+		<responses>
+			<response correct="true">3%</response>
+			<response>5%</response>
+			<response>2%</response>
+			<response>10%</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>El trato para países en desarrollo será:</text>
+		<responses>
+			<response correct="true">Especial y diferenciado</response>
+			<response>Igual</response>
+			<response>Menor que los desarollados</response>
+			<response>todas las opciones</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text>Gracias a la Organización de la Aviación Civil Internacional (OACI) se ha reducido: </text>
+		<responses>
+			<response correct="true">Mortalidad de viajes en aire</response>
+			<response>Ración de comida</response>
+			<response>Sueldos a azafatas</response>
+			<response>Carga en viajes</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>¿Qué nombre reciben las Fuerzas de Paz de la ONU?</text>
+		<responses>
+			<response correct="true">Cascos Azules</response>
+			<response>Cascos Rojos</response>
+			<response>Cascos Negros</response>
+			<response>Cascos Verdes</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>La Organización de Naciones Unidas para el Desarrollo Industrial (ONUDI) promueve inversiones e intercambio de tecnología entre:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Norte-sur</response>
+			<response>Sur-sur</response>
+			<response>Oriente-occidente</response>
+		</responses>
+	</question>
+</questions>

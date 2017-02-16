@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<questions ods="2">
+	<question order="1">
+		<text>¿Qué cosas son importantes para lograr el desarrollo sostenible y empoderar a las comunidades?</text>
+		<responses>
+			<response correct="true">Información y comunicación</response>
+			<response>Ir al cine siempre</response>
+			<response>Trabajar sin descansar</response>
+			<response>Comer mucho</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>Para conseguir incremento en la productividad, ingresos y mejoras en resultados sanitarios y eductaivos se necesita de: </text>
+		<responses>
+			<response correct="true">Inversión e infraestructura</response>
+			<response>Ganas</response>
+			<response>Buenas intenciones</response>
+			<response>Proyectos y deseos</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>¿Qué factor incide en la necesidad de contar con infraestructuras sostenibles?</text>
+		<responses>
+			<response correct="true">Ritmo de crecimiento y urbanización</response>
+			<response>La super Luna</response>
+			<response>Las elecciones predisenciales</response>
+			<response>La coima en el mundo</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>A la empresa privada se le está ayudando con apoyo:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Financiero</response>
+			<response>Tecnológico</response>
+			<response>Técnico</response>
+		</responses>
+	</question>
+	<question order="5">
+		<text>De lo siguiente: ¿qué es deficiente en países en desarrollo?</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Carreteras</response>
+			<response>Tecnologías de información</response>
+			<response>Saneamiento </response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>¿Cuántos millones de personas en el mundo en desarrollo se enfrentan a dificultades de acceso a la electricidad a tiempo completo?</text>
+		<responses>
+			<response correct="true">2600</response>
+			<response>1000</response>
+			<response>100</response>
+			<response>26</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>¿Cuántos millones de personas en el mundo carecen de acceso a saneamiento básico?</text>
+		<responses>
+			<response correct="true">2500</response>
+			<response>500</response>
+			<response>1000</response>
+			<response>2000</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>¿Cuántos millones de personas en el mundo no tienen acceso al agua?</text>
+		<responses>
+			<response correct="true">800</response>
+			<response>600</response>
+			<response>200</response>
+			<response>100</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>¿Cuántos millones de personas no tienen acceso a servicios teléfonicos fiables?</text>
+		<responses>
+			<response correct="true">1 a 1,5</response>
+			<response>2 a 3</response>
+			<response>1 a 4</response>
+			<response>2 a 5</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>El logro de objetivos sociales, ecnonómicos y políticos se relacionan con:</text>
+		<responses>
+			<response correct="true">Infraestructura de calidad</response>
+			<response>Poder ir a Disney</response>
+			<response>Comer 5 veces al día</response>
+			<response>Reelegir presidentes</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>La infrestructura inadecuada conduce a falta de acceso a:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Mercados</response>
+			<response>Trabajo</response>
+			<response>Formación</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>Las infraestructuras subdesarrolladas limitan el acceso a:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Atención sanitaria</response>
+			<response>Educación</response>
+			<response>Curar enfermedades</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>¿En África, en qué porcentaje afectan las limitaciones en cuanto a infraestructura sobre la productividad de las empresas?</text>
+		<responses>
+			<response correct="true">40%</response>
+			<response>20%</response>
+			<response>10%</response>
+			<response>15%</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>¿Cuántos millones de personas hasta el 2009, tenía la industria manufacturera en el mundo?</text>
+		<responses>
+			<response correct="true">470</response>
+			<response>200</response>
+			<response>500</response>
+			<response>0</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text> La Convención de las Naciones Unidas sobre el Derecho del Mar entró en vigor en:</text>
+		<responses>
+			<response correct="true">1994</response>
+			<response>2000</response>
+			<response>1990</response>
+			<response>1945</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>Las Nacioes Unidas se forma después de:</text>
+		<responses>
+			<response correct="true">II Guerra Mundial</response>
+			<response>I Guerra Mundial</response>
+			<response>III Guerra Mundial</response>
+			<response>Revolución Industrial</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>La Organización Meteorológica Mundial (OMM) se dedica a:</text>
+		<responses>
+			<response correct="true">Todas las opciones</response>
+			<response>Monitorear con satélites</response>
+			<response>Estadísticas de clima</response>
+			<response>Registro de clima</response>
+		</responses>
+	</question>
+</questions>

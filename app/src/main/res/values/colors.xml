@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#fff</color>
+
+    <color name="ods1">#e5233d</color>
+    <color name="ods2">#dda73a</color>
+    <color name="ods3">#4ca146</color>
+    <color name="ods4">#c7212f</color>
+    <color name="ods5">#ef402d</color>
+    <color name="ods6">#27bfe6</color>
+    <color name="ods7">#fbc412</color>
+    <color name="ods8">#a31c44</color>
+    <color name="ods9">#f26a2e</color>
+    <color name="ods10">#de1768</color>
+    <color name="ods11">#f89d2a</color>
+    <color name="ods12">#bf8d2c</color>
+    <color name="ods13">#407f46</color>
+    <color name="ods14">#1f97d4</color>
+    <color name="ods15">#59ba47</color>
+    <color name="ods16">#136a9f</color>
+    <color name="ods17">#14496b</color>
+    <color name="ods1_contrast">#e5233d</color>
+    <color name="ods2_contrast">#dda73a</color>
+    <color name="ods3_contrast">#4ca146</color>
+    <color name="ods4_contrast">#c7212f</color>
+    <color name="ods5_contrast">#ef402d</color>
+    <color name="ods6_contrast">#27bfe6</color>
+    <color name="ods7_contrast">#fbc412</color>
+    <color name="ods8_contrast">#a31c44</color>
+    <color name="ods9_contrast">#f26a2e</color>
+    <color name="ods10_contrast">#de1768</color>
+    <color name="ods11_contrast">#f89d2a</color>
+    <color name="ods12_contrast">#6d4903</color>
+    <color name="ods13_contrast">#407f46</color>
+    <color name="ods14_contrast">#1f97d4</color>
+    <color name="ods15_contrast">#acf19e</color>
+    <color name="ods16_contrast">#2ba4f1</color>
+    <color name="ods17_contrast">#30a7f3</color>
+    <color name="preview_text_contrast">#d7dcd6</color>
+    <color name="response_incorrect">@color/ods4</color>
+    <color name="response_correct">@color/ods15</color>
+    <color name="response_default">#807777</color>
+
+
+</resources>

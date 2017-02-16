@@ -1,0 +1,156 @@
+<?xml version="1.0"?>
+<questions ods="1">
+	<question order="1">
+		<text>¿Con cuanto dinero promedio cuenta 1 de cada 5 personas en regiones en desarrollo?</text>
+		<responses>
+			<response correct="true">$1,25 al día</response>
+			<response>$50,00 al mes</response>
+			<response>$1,50 al día</response>
+			<response>$2,00 al día</response>
+		</responses>
+	</question>
+	<question order="2">
+		<text>¿Cuál de las siguientes opciones no representa una manifestación de pobreza?</text>
+		<responses>
+			<response correct="true">Estrés vacacional</response>
+			<response>Discriminación, exclusión social</response>
+			<response>Bajos ingresos</response>
+			<response>Hambre, malnutrición</response>
+		</responses>
+	</question>
+	<question order="3">
+		<text>La gran mayoría de esos pobres pertenece a 2 regiones:</text>
+		<responses>
+			<response correct="true">Asia Meridional y África Subsahariana</response>
+			<response>Latinoamérica y África</response>
+			<response>Europa y Norteamérica</response>
+			<response>Centro América y África</response>
+		</responses>
+	</question>
+	<question order="4">
+		<text>¿Cuántos niños menores de 5 años no tiene una altura adecuada para su edad, en el mundo?</text>
+		<responses>
+			<response correct="true">1 de cada 4</response>
+			<response>1 de cada 10</response>
+			<response>2 de cada 4</response>
+			<response>2 de cada 6</response>
+		</responses>
+	</question>
+	<question order="5">
+		<text>¿ En 2014, cuántas personas tuvieron que abandonar sus hogares cada día en busca de protección debido a un conflicto?</text>
+		<responses>
+			<response correct="true">42 000 personas</response>
+			<response>10 000 personas</response>
+			<response>20 000 personas</response>
+			<response>40 000 personas</response>
+		</responses>
+	</question>
+	<question order="6">
+		<text>Para el 2030 la ONU pretende en cuanto a la pobreza extrema medida por el ingreso diario:</text>
+		<responses>
+			<response correct="true">Erradicarla</response>
+			<response>Reducirla a la mitad</response>
+			<response>Reducirla en un 75%</response>
+			<response>Reducirla en un 99%</response>
+		</responses>
+	</question>
+	<question order="7">
+		<text>Para el 2030, la ONU ¿qué pretende hacer con la proporción de hombres, mujeres y niños de todas las edades que viven en la pobreza en todas sus dimensiones con arreglo a las definiciones nacionales?</text>
+		<responses>
+			<response correct="true">Reducirla a la mitad</response>
+			<response>Erradicarla</response>
+			<response>Reducirla en un 75%</response>
+			<response>Reducirla en un 99%</response>
+		</responses>
+	</question>
+	<question order="8">
+		<text>Una meta de la ONU en cuanto al Objetivo que se relaciona con la pobreza extrema es:</text>
+		<responses>
+			<response correct="true">Protección social para todos</response>
+			<response>Protección social para algunos</response>
+			<response>Protección social para ancianos</response>
+			<response>Protección social para niños</response>
+		</responses>
+	</question>
+	<question order="9">
+		<text>¿La ONU opina que para el 2030 también se debe de tener los mismos derechos para acceder a los recursos naturales y las nuevas tecnologías apropiadas?</text>
+		<responses>
+			<response correct="true">Sí</response>
+			<response>No</response>
+			<response>Año equivocado</response>
+			<response>No se relaciona</response>
+		</responses>
+	</question>
+	<question order="10">
+		<text>¿A cuál de las siguientes opciones la ONU opina que para el 2030 no se debe de tener los mismos derechos?</text>
+		<responses>
+			<response correct="true">Jugar PS4</response>
+			<response>La propiedad, control de tierras</response>
+			<response>Acceso a los servicios básicos</response>
+			<response>La herencia</response>
+		</responses>
+	</question>
+	<question order="11">
+		<text>Sobre la económia se indica que para el 2030 se debe de tener igual derecho a:</text>
+		<responses>
+			<response correct="true">Microfinanciación</response>
+			<response>Ir al cine</response>
+			<response>Comer rico</response>
+			<response>Recursos humanos</response>
+		</responses>
+	</question>
+	<question order="12">
+		<text>Una meta de la ONU en cuanto al Objetivo que se relaciona con la pobreza extrema es fomentar:</text>
+		<responses>
+			<response correct="true">La resilencia</response>
+			<response>El silencio</response>
+			<response>La obesidad</response>
+			<response>El consumismo</response>
+		</responses>
+	</question>
+	<question order="13">
+		<text>La resilencia se desea fomentar para que las personas aprendan a:</text>
+		<responses>
+			<response correct="true">Reducir su vulnerabilidad</response>
+			<response>Reducir sus ingresos</response>
+			<response>Realizar un brindis</response>
+			<response>Ninguna de las opciones</response>
+		</responses>
+	</question>
+	<question order="14">
+		<text>¿Cuál es la finalidad de garantizar una movilización importante de recursos procedentes de diversas fuentes, incluso mediante la mejora de la cooperación para el desarrollo?</text>
+		<responses>
+			<response correct="true">Ejecutar programas y políticas</response>
+			<response>Ninguna de las opciones mostradas</response>
+			<response>Divertirlos a todos</response>
+			<response>Hacer elecciones</response>
+		</responses>
+	</question>
+	<question order="15">
+		<text>Debido a la inversión acelerada en medidas para erradicar la pobreza, la ONU establece:</text>
+		<responses>
+			<response correct="true">Crear marcos normativos sólidos</response>
+			<response>Consumir suplementos</response>
+			<response>Dar charlas</response>
+			<response>Equidad de género</response>
+		</responses>
+	</question>
+	<question order="16">
+		<text>¿Cuántos objetivos de Desarrollo Sostenible son?</text>
+		<responses>
+			<response correct="true">17</response>
+			<response>10</response>
+			<response>12</response>
+			<response>5</response>
+		</responses>
+	</question>
+	<question order="17">
+		<text>Año en que se utilizó el nombre de Organización de Naciones Unidas</text>
+		<responses>
+			<response correct="true">1942</response>
+			<response>1922</response>
+			<response>1915</response>
+			<response>1950</response>
+		</responses>
+	</question>
+</questions>
