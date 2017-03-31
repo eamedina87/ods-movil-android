@@ -9,11 +9,15 @@ import android.support.v4.app.FragmentTransaction;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.widget.FrameLayout;
+import android.widget.ImageView;
+import android.widget.LinearLayout;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import com.medinamobile.odsmovil.R;
 import com.medinamobile.odsmovil.entities.Question;
 import com.medinamobile.odsmovil.entities.Response;
+import com.medinamobile.odsmovil.libs.ODSHelper;
 import com.medinamobile.odsmovil.question.QuestionPresenterImpl;
 import com.medinamobile.odsmovil.resume.ui.ResumeViewImpl;
 
@@ -36,6 +40,16 @@ public class QuestionViewImpl extends AppCompatActivity implements QuestionView,
 
     @BindView(R.id.question_container)
     FrameLayout question_container;
+    @BindView(R.id.question_image)
+    ImageView image;
+    @BindView(R.id.question_shortname)
+    TextView shortname;
+    @BindView(R.id.question_ods_layout)
+    LinearLayout layout;
+
+
+
+
     private Question question;
 
     @Override
@@ -93,6 +107,11 @@ public class QuestionViewImpl extends AppCompatActivity implements QuestionView,
         QuestionFragment fragment = new QuestionFragment();
         fragment.setOnResponseClickListener(this);
         fragment.setQuestion(question);
+
+        layout.setBackgroundColor(getResources().getColor(ODSHelper.getColor(question.getOds().getNumber())));
+        image.setImageResource(ODSHelper.getODSImageLogo(question.getOds().getNumber()));
+        shortname.setText(question.getOds().getShortname());
+
 
         FragmentTransaction ft = getSupportFragmentManager().beginTransaction();
         ft.setCustomAnimations(android.R.anim.slide_in_left, android.R.anim.fade_out);
